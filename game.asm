@@ -1,7 +1,4 @@
-// Armeen Rashidian
-// Name: Armeen Rashidian
-// Student ID: 3001 6331 
-// CPSC 355, Project Part 2
+// Name: Daniel Rashidian
 
 // Assembly program of Bomberman game
 
